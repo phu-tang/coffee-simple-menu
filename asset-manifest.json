@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coffee-simple-menu/static/css/main.0b35c1b8.chunk.css",
+    "main.js": "/coffee-simple-menu/static/js/main.bfa69af5.chunk.js",
+    "main.js.map": "/coffee-simple-menu/static/js/main.bfa69af5.chunk.js.map",
+    "runtime-main.js": "/coffee-simple-menu/static/js/runtime-main.a457e503.js",
+    "runtime-main.js.map": "/coffee-simple-menu/static/js/runtime-main.a457e503.js.map",
+    "static/js/2.83fe0153.chunk.js": "/coffee-simple-menu/static/js/2.83fe0153.chunk.js",
+    "static/js/2.83fe0153.chunk.js.map": "/coffee-simple-menu/static/js/2.83fe0153.chunk.js.map",
+    "index.html": "/coffee-simple-menu/index.html",
+    "precache-manifest.e935fef34b642521cc2363008a78981e.js": "/coffee-simple-menu/precache-manifest.e935fef34b642521cc2363008a78981e.js",
+    "service-worker.js": "/coffee-simple-menu/service-worker.js",
+    "static/css/main.0b35c1b8.chunk.css.map": "/coffee-simple-menu/static/css/main.0b35c1b8.chunk.css.map",
+    "static/js/2.83fe0153.chunk.js.LICENSE.txt": "/coffee-simple-menu/static/js/2.83fe0153.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a457e503.js",
+    "static/js/2.83fe0153.chunk.js",
+    "static/css/main.0b35c1b8.chunk.css",
+    "static/js/main.bfa69af5.chunk.js"
+  ]
+}
